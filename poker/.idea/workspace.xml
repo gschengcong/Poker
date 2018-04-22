@@ -35,14 +35,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="card_tool.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="card_tool.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Game/card_tool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+            <state relative-caret-position="113">
+              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#450#463#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Game/evaluator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4">
+              <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -96,6 +105,7 @@
         <option value="$PROJECT_DIR$/Settings/game_settings.py" />
         <option value="$PROJECT_DIR$/Game/card_to_string_conversion.py" />
         <option value="$PROJECT_DIR$/Game/card_tool.py" />
+        <option value="$PROJECT_DIR$/Game/evaluator.py" />
       </list>
     </option>
   </component>
@@ -341,6 +351,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Settings/game_settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game/card_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="e#450#463#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Game/card_to_string_conversion.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-587">
@@ -351,20 +378,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Settings/game_settings.py">
+    <entry file="file://$PROJECT_DIR$/Game/evaluator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Game/card_tool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
-          <folding>
-            <element signature="e#450#463#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="4">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
         </state>
       </provider>
     </entry>
